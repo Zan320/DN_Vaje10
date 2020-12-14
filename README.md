@@ -1,3 +1,5 @@
-# DN_Vaje10
+# 1. DN_Vaje10
 
-# Dodal sem dodatna_datoteka.txt in Shrek_movie.mp4
+# 2. Dodal sem dodatna_datoteka.txt in Shrek_movie.mp4
+
+# 3. Sprejel sem datoteki dodatna_datoteka.txt in Shrek_movie.mp4
